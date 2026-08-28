@@ -7,9 +7,9 @@
    4. Em Account > General, copie sua "Public Key"
    5. Substitua os 4 valores abaixo.
    ============================================================ */
-  const EMAILJS_PUBLIC_KEY  = "THYt15-qsuY5-RTU4";
-  const EMAILJS_SERVICE_ID  = "service_6lmbigh";
-  const EMAILJS_TEMPLATE_ID = "template_q1ji4kb";
+  const EMAILJS_PUBLIC_KEY  = "SilTIK82Gx8Xppngy";
+  const EMAILJS_SERVICE_ID  = "service_kpfmbha";
+  const EMAILJS_TEMPLATE_ID = "template_xlfij5m";
   const DESTINATION_EMAIL   = "jhonyskylines@gmail.com"; // seu e-mail, pra onde a resposta dela vai
 
   let emailReady = false;
